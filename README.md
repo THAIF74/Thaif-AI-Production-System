@@ -2,6 +2,8 @@
 
 A production-style text-processing application built with FastAPI and Streamlit.
 
+[![Python Tests](https://github.com/THAIF74/Thaif-AI-Production-System/actions/workflows/python-tests.yml/badge.svg)](https://github.com/THAIF74/Thaif-AI-Production-System/actions/workflows/python-tests.yml)
+
 ## Features
 
 - REST API with request validation
